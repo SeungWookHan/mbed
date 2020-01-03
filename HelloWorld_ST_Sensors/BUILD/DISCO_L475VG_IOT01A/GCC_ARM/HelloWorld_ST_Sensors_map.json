@@ -1,0 +1,160 @@
+[
+    {
+        "module": "HTS221/HTS221Sensor.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 911
+        }
+    }, 
+    {
+        "module": "HTS221/HTS221_driver.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 926
+        }
+    }, 
+    {
+        "module": "LIS3MDL/lis3mdl_class.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 994
+        }
+    }, 
+    {
+        "module": "LPS22HB/LPS22HBSensor.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 1226
+        }
+    }, 
+    {
+        "module": "LPS22HB/LPS22HB_driver.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 700
+        }
+    }, 
+    {
+        "module": "LSM6DSL/LSM6DSLSensor.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 3240
+        }
+    }, 
+    {
+        "module": "LSM6DSL/LSM6DSL_acc_gyro_driver.o", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 768
+        }
+    }, 
+    {
+        "module": "VL53L0X/VL53L0X.o", 
+        "size": {
+            ".data": 697, 
+            ".bss": 0, 
+            ".text": 12485
+        }
+    }, 
+    {
+        "module": "[fill]", 
+        "size": {
+            ".data": 3, 
+            ".bss": 13, 
+            ".text": 166
+        }
+    }, 
+    {
+        "module": "[lib]/libc.a", 
+        "size": {
+            ".data": 2472, 
+            ".bss": 89, 
+            ".text": 33152
+        }
+    }, 
+    {
+        "module": "[lib]/libgcc.a", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 3104
+        }
+    }, 
+    {
+        "module": "[lib]/libnosys.a", 
+        "size": {
+            ".data": 0, 
+            ".bss": 0, 
+            ".text": 32
+        }
+    }, 
+    {
+        "module": "[lib]/misc", 
+        "size": {
+            ".data": 12, 
+            ".bss": 28, 
+            ".text": 208
+        }
+    }, 
+    {
+        "module": "main.o", 
+        "size": {
+            ".data": 4, 
+            ".bss": 1336, 
+            ".text": 1763
+        }
+    }, 
+    {
+        "module": "mbed-os/drivers", 
+        "size": {
+            ".data": 4, 
+            ".bss": 156, 
+            ".text": 1169
+        }
+    }, 
+    {
+        "module": "mbed-os/hal", 
+        "size": {
+            ".data": 0, 
+            ".bss": 24, 
+            ".text": 566
+        }
+    }, 
+    {
+        "module": "mbed-os/platform", 
+        "size": {
+            ".data": 4, 
+            ".bss": 270, 
+            ".text": 1261
+        }
+    }, 
+    {
+        "module": "mbed-os/rtos", 
+        "size": {
+            ".data": 180, 
+            ".bss": 5728, 
+            ".text": 8585
+        }
+    }, 
+    {
+        "module": "mbed-os/targets", 
+        "size": {
+            ".data": 4, 
+            ".bss": 1412, 
+            ".text": 16098
+        }
+    }, 
+    {
+        "summary": {
+            "static_ram": 12436, 
+            "total_flash": 90734
+        }
+    }
+]

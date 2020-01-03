@@ -1,0 +1,36 @@
+syntax: glob
+.hg
+.git
+.svn
+.CVS
+.cvs
+*.orig
+BUILD
+.build
+.export
+.msub
+.meta
+.ctags*
+*.uvproj
+*.uvopt
+*.project
+*.cproject
+*.launch
+*.ewp
+*.eww
+/Makefile
+Debug
+*.htm
+.mbed
+*.settings
+mbed_settings.py
+*.py[cod]
+# subrepo ignores
+VL53L0X
+HTS221
+mbed
+LSM303AGR
+LIS3MDL
+LPS22HB
+LSM6DSL
+mbed-os

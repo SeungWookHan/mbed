@@ -1,0 +1,10 @@
+data/mbed.lib.i
+data/mbed-os.lib.i
+data/LIS3MDL.lib.i
+data/VL53L0X.lib.i
+data/HTS221.lib.i
+data/LSM303AGR.lib.i
+data/LSM6DSL.lib.i
+data/main.cpp.i
+data/mbed.bld.i
+data/LPS22HB.lib.i

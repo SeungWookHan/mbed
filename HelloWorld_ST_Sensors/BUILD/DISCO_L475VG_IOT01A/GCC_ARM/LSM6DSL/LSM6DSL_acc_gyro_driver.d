@@ -1,0 +1,4 @@
+BUILD/DISCO_L475VG_IOT01A/GCC_ARM/LSM6DSL/LSM6DSL_acc_gyro_driver.o: \
+ LSM6DSL/LSM6DSL_acc_gyro_driver.c \
+ BUILD/DISCO_L475VG_IOT01A/GCC_ARM/mbed_config.h \
+ LSM6DSL/LSM6DSL_acc_gyro_driver.h
